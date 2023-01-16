@@ -28,3 +28,11 @@ Comprender como funciona los circuitos con interruptores de 3 vias, y cuales son
 
 Aplicar  los conocimientos adquiridos  durante y despues de las clases de circuitos electricos.
 
+2.    MARCO TEORICO
+3.    EXPLICACION DE PROCEDIMIENTO  
+4.    RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+5.    VIDEO
+6.    CONCLUSIONES
+7.    BIBLIOGRAFIA
+
+RUBRICA
