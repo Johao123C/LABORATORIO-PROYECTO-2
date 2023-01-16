@@ -41,6 +41,8 @@ Aplicar  los conocimientos adquiridos  durante y despues de las clases de circui
 8.    CONCLUSIONES
 9.    BIBLIOGRAFIA
 
-https://electrotec.pe/blog/FaseNeutroYTierra
-https://grupo-jarama.com/blog/cable-neutro-fase-tierra-diferencias-caracteristicas
+-  https://electrotec.pe/blog/FaseNeutroYTierra
+-  https://grupo-jarama.com/blog/cable-neutro-fase-tierra-diferencias-caracteristicas
+
+
 RUBRICA
