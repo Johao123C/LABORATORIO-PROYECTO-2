@@ -20,6 +20,7 @@ NRC:10067
   
 1.     OBJETIVOS
 
- Realizar un circuito en el protoboard utilizando diferentes materiales eléctricos que componen un led nocturno automático y así lograr comprender cuales son sus diferentes usos que se le da dentro y fuera del área de la electricidad y la electrónica, y como también en el área industrial. 
+ Representar un esquema de un  circuito  de luces con un Interruptor de 3 vía, y asi intentar plasmarlo como seria en la vida real este tipo de circuitos y cuales serian sus beneficios al realizarlo
+ 
  
 1.1.Objetivos específicos:
