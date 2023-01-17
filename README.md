@@ -24,11 +24,11 @@ NRC:10067
  
 1.1.Objetivos específicos:
 
-Comprender como funciona los circuitos con interruptores de 3 vias, y cuales son sus beneficios al consumidor.
+- Comprender como funciona los circuitos con interruptores de 3 vias, y cuales son sus beneficios al consumidor.
 
-Aplicar  los conocimientos adquiridos  durante y despues de las clases de circuitos electricos.
+- Aplicar  los conocimientos adquiridos  durante y despues de las clases de circuitos electricos.
 
-Conocer diferentes materiales que se van a utilizar para la construcción de el circuito escalera y asi lograr comprender como es el funcionamiento de cada uno de ellas.
+- Conocer diferentes materiales que se van a utilizar para la construcción de el circuito escalera y asi lograr comprender como es el funcionamiento de cada uno de ellas.
 
 2.    MARCO TEORICO
 
