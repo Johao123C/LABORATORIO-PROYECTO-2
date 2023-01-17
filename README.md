@@ -35,13 +35,35 @@ Aplicar  los conocimientos adquiridos  durante y despues de las clases de circui
 
 4.    EXPLICACION DE PROCEDIMIENTO  
 
+ Cortar la energía eléctrica en la caja central.
+ 
+Decidir si la energía eléctrica va hacia el interruptor o hacia la luz.
+
+Examinar detalladamente donde va a ir ubicado el interruptor de tres vías.
+
+Instalar las cajas eléctricas grandes.
+
+Colocar el cable de tres hilos entre las dos cajas.
+
+Cablear los interruptores hacia los terminales correspondientes.
+
+Conectar la energía al cable nuevo.
+
+Instalar el interruptor.
+
+Encender la energía eléctrica y probarlo.
+
 ![image](https://user-images.githubusercontent.com/117744175/212781040-095f4ea7-bbc5-4f15-9bc9-fc92105ea6a6.png)
 
 ![image](https://user-images.githubusercontent.com/116815201/212795861-e3f39e4a-b8c9-42d7-ac35-145e1fb84f02.png)
 
 6.    RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-7.    VIDEO
-8.    CONCLUSIONES
+
+Se respondió a varias preguntas que se tenían acerca de todos los materiales que se compraron para realizar el proyecto ya que no todos nosotros queriamos saber como funciona cada uno de ellos y así también saber que rol cumple dentro del circuito.
+
+7. VIDEO
+
+8. CONCLUSIONES
 
 · Este proyecto es muy útil en la vida diaria de todas las personas, ya que este circuito ayuda mucho a manipular el apagado de un foco desde dos lados diferentes del hogar asi facilitando su apagado.
 
@@ -53,6 +75,3 @@ Aplicar  los conocimientos adquiridos  durante y despues de las clases de circui
 
 -  https://electrotec.pe/blog/FaseNeutroYTierra
 -  https://grupo-jarama.com/blog/cable-neutro-fase-tierra-diferencias-caracteristicas
-
-
-RUBRICA
