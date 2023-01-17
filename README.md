@@ -20,13 +20,15 @@ NRC:10067
   
 1.     OBJETIVOS
 
- Representar un esquema de un  circuito  de luces con un Interruptor de 3 vía, y asi intentar plasmarlo como seria en la vida real este tipo de circuitos y cuales serian sus beneficios al realizarlo
+ Representar un esquema de un  circuito  de luces con un Interruptor de 3 vías, y asi conectar y controlar los aparatos y equipos de CA desde dos lugares distintos, logrando asi plasmar como seria en la vida real este tipo de circuitos y cuales serian sus beneficios al realizarlo.
  
 1.1.Objetivos específicos:
 
-Comprender como funciona los circuitos con interruptores de 3 vias, y cuales son sus beneficios al consumidor
+Comprender como funciona los circuitos con interruptores de 3 vias, y cuales son sus beneficios al consumidor.
 
 Aplicar  los conocimientos adquiridos  durante y despues de las clases de circuitos electricos.
+
+Conocer diferentes materiales que se van a utilizar para la construcción de el circuito escalera y asi lograr comprender como es el funcionamiento de cada uno de ellas.
 
 2.    MARCO TEORICO
 
@@ -35,23 +37,25 @@ Aplicar  los conocimientos adquiridos  durante y despues de las clases de circui
 
 4.    EXPLICACION DE PROCEDIMIENTO  
 
- Cortar la energía eléctrica en la caja central.
- 
-Decidir si la energía eléctrica va hacia el interruptor o hacia la luz.
+- Comprar todos los materiales necesarios para la contrucción de el circuito escalera 
 
-Examinar detalladamente donde va a ir ubicado el interruptor de tres vías.
+- Decidir si la energía eléctrica va hacia el interruptor o hacia la luz.
 
-Instalar las cajas eléctricas grandes.
+- Examinar detalladamente donde va a ir ubicado el interruptor de tres vías.
 
-Colocar el cable de tres hilos entre las dos cajas.
+- Instalar las cajas eléctricas grandes.
 
-Cablear los interruptores hacia los terminales correspondientes.
+- Colocar el cable de tres hilos entre las dos cajas.
 
-Conectar la energía al cable nuevo.
+- Cablear los interruptores hacia los terminales correspondientes.
 
-Instalar el interruptor.
+- Colocar los cables en la respectiva boquilla.
 
-Encender la energía eléctrica y probarlo.
+- Conectar la energía al cable nuevo.
+
+- Instalar el interruptor.
+
+- Encender la energía eléctrica y probarlo.
 
 ![image](https://user-images.githubusercontent.com/117744175/212781040-095f4ea7-bbc5-4f15-9bc9-fc92105ea6a6.png)
 
@@ -62,6 +66,8 @@ Encender la energía eléctrica y probarlo.
 Se respondió a varias preguntas que se tenían acerca de todos los materiales que se compraron para realizar el proyecto ya que no todos nosotros queriamos saber como funciona cada uno de ellos y así también saber que rol cumple dentro del circuito.
 
 7. VIDEO
+
+
 
 8. CONCLUSIONES
 
