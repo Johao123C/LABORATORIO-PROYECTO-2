@@ -71,11 +71,11 @@ Se respondió a varias preguntas que se tenían acerca de todos los materiales q
 
 8. CONCLUSIONES
 
-· Este proyecto es muy útil en la vida diaria de todas las personas, ya que este circuito ayuda mucho a manipular el apagado de un foco desde dos lados diferentes del hogar asi facilitando su apagado.
+- Este proyecto es muy útil en la vida diaria de todas las personas, ya que este circuito ayuda mucho a manipular el apagado de un foco desde dos lados diferentes del hogar asi facilitando su apagado.
 
-· Debemos revisar todos los elementos que vamos a utilizar en el circuito y determinar si funcionan correctamente cada uno de ellos para evitar problemas al momento de construir el circuito.
+- Debemos revisar todos los elementos que vamos a utilizar en el circuito y determinar si funcionan correctamente cada uno de ellos para evitar problemas al momento de construir el circuito.
 
-· En este proyecto surgieron algunos problemas al momento de familiarizarnos con los materiales y con la construcción misma de estas ya que no es lo mismo ver una clase virtual que una que se haga de manera presencial.
+- En este proyecto surgieron algunos problemas al momento de familiarizarnos con los materiales y con la construcción misma de estas ya que no es lo mismo ver una clase virtual que una que se haga de manera presencial.
 
 9.    BIBLIOGRAFIA
 
