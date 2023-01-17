@@ -31,14 +31,24 @@ Aplicar  los conocimientos adquiridos  durante y despues de las clases de circui
 2.    MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/117744175/212780819-96013e88-7816-4fdd-a90f-4c6a44921f8e.png)
+![image](https://user-images.githubusercontent.com/116815201/212795388-11ad076f-ede7-45cf-a3c3-54208b318a9c.png)
 
 4.    EXPLICACION DE PROCEDIMIENTO  
 
 ![image](https://user-images.githubusercontent.com/117744175/212781040-095f4ea7-bbc5-4f15-9bc9-fc92105ea6a6.png)
 
+![image](https://user-images.githubusercontent.com/116815201/212795861-e3f39e4a-b8c9-42d7-ac35-145e1fb84f02.png)
+
 6.    RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 7.    VIDEO
 8.    CONCLUSIONES
+
+· Este proyecto es muy útil en la vida diaria de todas las personas, ya que este circuito ayuda mucho a manipular el apagado de un foco desde dos lados diferentes del hogar asi facilitando su apagado.
+
+· Debemos revisar todos los elementos que vamos a utilizar en el circuito y determinar si funcionan correctamente cada uno de ellos para evitar problemas al momento de construir el circuito.
+
+· En este proyecto surgieron algunos problemas al momento de familiarizarnos con los materiales y con la construcción misma de estas ya que no es lo mismo ver una clase virtual que una que se haga de manera presencial.
+
 9.    BIBLIOGRAFIA
 
 -  https://electrotec.pe/blog/FaseNeutroYTierra
